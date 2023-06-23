@@ -1,0 +1,15 @@
+body{
+    background-color: gray
+}
+h1{
+    color:aliceblue ;font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;width: auto;height: auto;
+}
+h2{
+    color: antiquewhite;font-family: Arial, Helvetica, sans-serif;width: auto;height: auto;
+}
+h4{
+    color: beige;font-family: 'Times New Roman', Times, serif; width: auto; height: auto;
+}
+img {
+    width: 200px;height: auto;
+}
