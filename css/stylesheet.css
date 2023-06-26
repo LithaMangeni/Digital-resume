@@ -1,5 +1,6 @@
 body{
-    background-color: gray
+    background-color: gray; 
+     border: 10px solid white;
 }
 h1{
     color:aliceblue ;font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;width: auto;height: auto;
@@ -12,4 +13,19 @@ h4{
 }
 img {
     width: 200px;height: auto;
+}
+header{
+ background-color: #3a99ac;padding: 50px;
+}
+img{
+    margin-left: 200px; border-radius: 100px;border: solid white ;border-width: 10px;
+}
+p{
+    margin: 40px;
+}
+h2,h4{
+    margin: 40px;
+}
+nav{
+    background-color: #4f8ec5;margin-right: 1100px; border: 2px solid white;
 }
